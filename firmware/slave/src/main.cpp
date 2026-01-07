@@ -43,7 +43,7 @@
 
 
 #define TEAM_ID 7
-uint8_t masterMAC[] = {0xC8, 0x2E, 0x18, 0x67, 0x2C, 0x10};  // Update master MAC ⚠️
+uint8_t masterMAC[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};  // Update master MAC ⚠️
 // ═══════════════════════════════════════════════════
 
 // Pin Definitions
