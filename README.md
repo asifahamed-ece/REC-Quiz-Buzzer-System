@@ -247,17 +247,17 @@ Rajalakshmi Engineering College, Chennai
 
 **Project Maintainer:** Asif Ahamed S
 
-- GitHub: [@asifahamed](https://github.com/asifahamed)
-- Email: asif.ahamed@example.com
+- GitHub: [@asifahamed](https://github.com/asifahamed-ece)
+- Email: asifahamed670@gmail.com
 - LinkedIn: [Asif Ahamed S](https://linkedin.com/in/asifahamed)
 
 ---
 
 ## 🔗 Quick Links
 
-- [Report Bug](https://github.com/asifahamed/REC-Quiz-Buzzer-System/issues)
-- [Request Feature](https://github.com/asifahamed/REC-Quiz-Buzzer-System/issues)
-- [View Releases](https://github.com/asifahamed/REC-Quiz-Buzzer-System/releases)
+- [Report Bug](https://github.com/asifahamed-ece/REC-Quiz-Buzzer-System/issues)
+- [Request Feature](https://github.com/asifahamed-ece/REC-Quiz-Buzzer-System/issues)
+- [View Releases](https://github.com/asifahamed-ece/REC-Quiz-Buzzer-System/releases)
 
 ---
 
