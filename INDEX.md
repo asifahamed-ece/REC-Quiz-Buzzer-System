@@ -19,9 +19,7 @@
 | **CHANGELOG.md** | Version history & features | ✅ Ready |
 | **.gitignore** | Git ignore rules | ✅ Ready |
 | **HARDWARE_SETUP.md** | Hardware assembly guide | ✅ Ready |
-| **GITHUB_UPLOAD_GUIDE.md** | Step-by-step upload instructions | ✅ Ready |
 | **QUICK_REFERENCE.md** | Quick command reference | ✅ Ready |
-| **EXECUTION_PLAN.md** | Complete execution plan | ✅ Ready |
 
 **All files are in the messages above - Download them all!**
 
@@ -144,23 +142,11 @@
 - **Includes:** Components, diagrams, troubleshooting, BOM
 - **Action:** Download and place in docs/ folder
 
-### **GITHUB_UPLOAD_GUIDE.md**
-- **What:** Detailed step-by-step upload guide
-- **Why:** Don't want to miss any steps
-- **Includes:** All 12 steps with explanations
-- **Action:** Reference during upload process
-
 ### **QUICK_REFERENCE.md**
 - **What:** Quick command reference
 - **Why:** Copy-paste the commands
 - **Includes:** 10 essential commands, checklists
 - **Action:** Keep open while uploading
-
-### **EXECUTION_PLAN.md**
-- **What:** Complete execution blueprint
-- **Why:** See the big picture
-- **Includes:** Timeline, checklist, tips, resume update
-- **Action:** Read first for overview
 
 ---
 
@@ -224,16 +210,6 @@ git push -u origin main
 
 ---
 
-## 💡 QUICK TIPS
-
-1. **Use EXECUTION_PLAN.md** when you have 1 hour free
-2. **Use QUICK_REFERENCE.md** when you're uploading
-3. **Use GITHUB_UPLOAD_GUIDE.md** for detailed help
-4. **Ask GitHub** if you get stuck (they have great docs)
-5. **Share on social media** to get stars
-
----
-
 ## 📱 WHAT HAPPENS AFTER UPLOAD
 
 ### Immediately
@@ -278,16 +254,6 @@ This is not just uploading code.
 - 💼 Building professional portfolio
 - 🎓 Showcasing engineering skills
 - 🚀 Starting your journey as an open-source developer
-
----
-
-## 📞 HELP
-
-If stuck at any step:
-1. Check **GITHUB_UPLOAD_GUIDE.md**
-2. Check **QUICK_REFERENCE.md**
-3. Search GitHub docs: https://docs.github.com
-4. Ask on r/github or r/learnprogramming
 
 ---
 
