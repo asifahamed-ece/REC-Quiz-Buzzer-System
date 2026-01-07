@@ -166,7 +166,7 @@ Fixes #42
 
 Feel free to:
 - Open an issue with `question` label
-- Email: asif.ahamed@example.com
+- Email: asifahamed670@gmail.com
 
 ---
 
