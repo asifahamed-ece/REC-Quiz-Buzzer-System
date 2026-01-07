@@ -380,8 +380,6 @@ Everything ready to launch! 🚀
 
 **You're ready to build One of the world's best quiz buzzer system!**
 
-## ➡️ NEXT: Download all files and follow EXECUTION_PLAN.md
-
 ---
 
 **Made with ❤️ by Asif Ahamed S**
