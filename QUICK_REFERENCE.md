@@ -85,7 +85,6 @@ REC-Quiz-Buzzer-System/
 ├── CODE_OF_CONDUCT.md          ✅ Created
 ├── CHANGELOG.md                ✅ Created
 ├── HARDWARE_SETUP.md           ✅ Created
-├── GITHUB_UPLOAD_GUIDE.md      ✅ Created
 │
 ├── firmware/
 │   ├── master/
@@ -148,7 +147,6 @@ All these files are ready to download from above:
 5. ✅ **CHANGELOG.md** - Version history
 6. ✅ **.gitignore** - Git ignore rules
 7. ✅ **HARDWARE_SETUP.md** - Hardware assembly guide
-8. ✅ **GITHUB_UPLOAD_GUIDE.md** - Complete upload instructions
 
 ---
 
