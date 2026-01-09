@@ -54,18 +54,18 @@
 ### Master Unit (1x)
 | Component | Specification | Purpose |
 |-----------|---------------|---------|
-| ESP32 DevKit | 30-pin, 4MB Flash | Main controller + WiFi AP |
+| ESP32 Wroom 32 | 38-pin, 4MB Flash | Main controller + WiFi AP |
 | OLED Display | 0.96" I2C (128x64) | Status display |
 | Push Button | Momentary SPST | Reset/Phase toggle |
 | Toggle Switch | SPST | Power control |
 | Buzzer | 5V Active | Audio feedback |
 | LEDs | 3x (5mm) | Status indicators |
-| Power Supply | 5V 2A | System power |
+| Power Supply | 5V 2A | System power/ Power Bank via USB |
 
-### Slave Units (10x)
+### Team Buzzer {Slave} Units (10x)
 | Component | Specification | Purpose |
 |-----------|---------------|---------|
-| ESP32 DevKit | 30-pin, 4MB Flash | Team controller |
+| ESP32 Wroom 32 | 38-pin, 4MB Flash | Team controller |
 | Push Button | Momentary SPST | Buzzer button |
 | LED | 5mm (any color) | Status indicator |
 | Battery | 18650 Li-ion | Portable power |
@@ -249,7 +249,7 @@ Rajalakshmi Engineering College, Chennai
 
 - GitHub: [@asifahamed](https://github.com/asifahamed-ece)
 - Email: asifahamed670@gmail.com
-- LinkedIn: [Asif Ahamed S](https://linkedin.com/in/asifahamed)
+- LinkedIn: [Asif Ahamed S](https://www.linkedin.com/in/asif-ahamed-s-ece)
 
 ---
 
