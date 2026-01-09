@@ -86,7 +86,7 @@
 
 #### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/asifahamed/REC-Quiz-Buzzer-System.git
+git clone https://github.com/asifahamed-ece/REC-Quiz-Buzzer-System.git
 cd REC-Quiz-Buzzer-System
 ```
 
