@@ -60,7 +60,7 @@
 | Toggle Switch | SPST | Power control |
 | Buzzer | 5V Active | Audio feedback |
 | LEDs | 3x (5mm) | Status indicators |
-| Power Supply | 5V 2A | System power/ Power Bank via USB |
+| Power Supply (USB) | 5V 2A | System power |
 
 ### Team Buzzer {Slave} Units (10x)
 | Component | Specification | Purpose |
