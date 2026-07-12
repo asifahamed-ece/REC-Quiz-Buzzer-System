@@ -23,7 +23,7 @@
 
 ### Hardware Features
 -  **10 Independent Teams** with wireless ESP-NOW communication
--  **Sub-millisecond Response Time** (<1ms precision with microsecond timestamps)
+-  **Sub-millisecond Response Time** (<10ms precision with microsecond timestamps)
 -  **50+ Meter Range** (2.4GHz wireless)
 -  **Real-time Battery Monitoring** (3-zone health system)
 -  **OLED Display** with phase indicators
