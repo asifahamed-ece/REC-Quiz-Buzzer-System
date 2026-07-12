@@ -173,16 +173,6 @@ cd ../..
 
 ---
 
-## 📚 Documentation
-
-- [🔧 Hardware Setup Guide](docs/HARDWARE_SETUP.md)
-- [💻 Software Installation](docs/SOFTWARE_SETUP.md)
-- [📖 User Manual](docs/USER_GUIDE.md)
-- [🔌 API Reference](docs/API_REFERENCE.md)
-- [🐛 Troubleshooting](docs/TROUBLESHOOTING.md)
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -193,21 +183,6 @@ We welcome contributions! Here's how you can help:
 - 📝 Improve documentation
 - 🔧 Submit pull requests
 - ⭐ Star the repository
-
-### Development Setup
-```bash
-# Fork the repository
-git clone https://github.com/YOUR_USERNAME/REC-Quiz-Buzzer-System.git
-
-# Create a feature branch
-git checkout -b feature/your-feature-name
-
-# Make your changes and commit
-git commit -m "Add: your feature description"
-
-# Push and create pull request
-git push origin feature/your-feature-name
-```
 
 [📋 Contribution Guidelines](CONTRIBUTING.md)
 
