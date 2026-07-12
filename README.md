@@ -22,30 +22,30 @@
 ## 🌟 Features
 
 ### Hardware Features
-- ✅ **10 Independent Teams** with wireless ESP-NOW communication
-- ✅ **Sub-millisecond Response Time** (<1ms precision with microsecond timestamps)
-- ✅ **50+ Meter Range** (2.4GHz wireless)
-- ✅ **Real-time Battery Monitoring** (3-zone health system)
-- ✅ **OLED Display** with phase indicators
-- ✅ **Physical Controls** (reset button, power switch)
-- ✅ **Standalone Operation** (no internet required)
+-  **10 Independent Teams** with wireless ESP-NOW communication
+-  **Sub-millisecond Response Time** (<1ms precision with microsecond timestamps)
+-  **50+ Meter Range** (2.4GHz wireless)
+-  **Real-time Battery Monitoring** (3-zone health system)
+-  **OLED Display** with phase indicators
+-  **Physical Controls** (reset button, power switch)
+-  **Standalone Operation** (no internet required)
 
 ### Dashboard Features
-- ✅ **Real-time WebSocket Updates** (instant synchronization)
-- ✅ **Two-Phase Quiz System** (LISTEN → READY → ANSWERED)
-- ✅ **Background Music** during READY phase
-- ✅ **Audio Feedback** (buzzer sounds, winner jingles, voice announcements)
-- ✅ **Visual Effects** (confetti animations, smooth transitions)
-- ✅ **Team Status Panel** (online/offline, battery levels)
-- ✅ **Response Order Display** (with precise timestamps)
-- ✅ **Mobile Responsive** design
+-  **Real-time WebSocket Updates** (instant synchronization)
+-  **Two-Phase Quiz System** (LISTEN → READY → ANSWERED)
+-  **Background Music** during READY phase
+-  **Audio Feedback** (buzzer sounds, winner jingles, voice announcements)
+-  **Visual Effects** (confetti animations, smooth transitions)
+-  **Team Status Panel** (online/offline, battery levels)
+-  **Response Order Display** (with precise timestamps)
+-  **Mobile Responsive** design
 
 ### Software Features
-- ✅ **Smart Broadcast System** (priority-based throttling)
-- ✅ **Debounce Protection** (1-second cooldown on reset)
-- ✅ **Heartbeat Monitoring** (automatic disconnect detection)
-- ✅ **Batch Response Processing** (200ms window optimization)
-- ✅ **Modern Web Standards** (HTML5, CSS3, ES6+)
+-  **Smart Broadcast System** (priority-based throttling)
+-  **Debounce Protection** (1-second cooldown on reset)
+-  **Heartbeat Monitoring** (automatic disconnect detection)
+-  **Batch Response Processing** (200ms window optimization)
+-  **Modern Web Standards** (HTML5, CSS3, ES6+)
 
 ---
 
