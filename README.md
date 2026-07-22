@@ -156,6 +156,124 @@ cd ../..
 
 ---
 
+## 📸 Project Gallery
+
+<div align="center">
+
+### 🖥️ Dashboard Interface
+
+**Main Dashboard View**
+<img src="images/Web1.png" alt="Dashboard - Main View" width="450">
+*The primary quiz control interface showing team status and real-time controls*
+
+**Ready Phase Display**
+<img src="images/Web2.png" alt="Dashboard - Ready Phase" width="450">
+*READY phase with background music indicator and active buzzer monitoring*
+
+**Winner Announcement**
+<img src="images/Web3.png" alt="Dashboard - Winner Display" width="450">
+*ANSWERED phase showing winning team with precise response timestamp*
+
+**Team Status Panel**
+<img src="images/Web4.png" alt="Dashboard - Team Monitoring" width="450">
+*Real-time team connection status and battery health monitoring*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔧 Hardware Assembly
+
+**PCB Fabrication**
+<img src="images/PCBCutting.jpg" alt="PCB Cutting Process" width="450">
+*Custom PCB being cut for the master unit circuitry*
+
+**Raw Components**
+<img src="images/Unpainted.jpg" alt="Unpainted Enclosure" width="450">
+*3D printed enclosure parts before painting and finishing*
+
+**Painted Enclosure**
+<img src="images/paintedV.jpg" alt="Painted Version" width="450">
+*Final painted enclosure with professional finish*
+
+**Internal Layout**
+<img src="images/Opened.jpg" alt="Opened Unit" width="450">
+*Internal component arrangement showing ESP32 and wiring*
+
+**Top View**
+<img src="images/Top.jpg" alt="Top View" width="450">
+*Top assembly view with button placement*
+
+**Button Assembly**
+<img src="images/Buttons.jpg" alt="Buttons Detail" width="450">
+*Close-up of push button switches and control interface*
+
+**Side Profile 1**
+<img src="images/Side1.jpg" alt="Side View 1" width="450">
+*Side profile showing port access and mounting points*
+
+**Side Profile 2**
+<img src="images/Side2.jpg" alt="Side View 2" width="450">
+*Alternative side angle with cable management*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔋 Power System
+
+**Charging Dock**
+<img src="images/Charger.jpg" alt="Charger" width="450">
+*Custom charging station for team units*
+
+**Charging in Progress**
+<img src="images/Charging.jpg" alt="Charging" width="450">
+*Team unit connected to charger with LED indicator*
+
+**Battery Monitor**
+<img src="images/batteryPercentageAddn.jpg" alt="Battery Percentage Display" width="450">
+*OLED display showing battery percentage and health status*
+
+</div>
+
+---
+
+<div align="center">
+
+### ✅ Completed Units
+
+**Master Unit - Front**
+<img src="images/Completed1.jpg" alt="Completed Master Unit" width="450">
+*Fully assembled master unit with OLED display and controls*
+
+**Master Unit - Angle View**
+<img src="images/Completed2.jpg" alt="Completed Master Unit Side" width="450">
+*Professional finished product ready for deployment*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Live Demonstration
+
+**Quiz Session in Progress**
+<img src="images/Demo1.jpg" alt="Demo Session 1" width="450">
+*Teams using wireless buzzers during live quiz competition*
+
+**Award Ceremony**
+<img src="images/Demo2.jpg" alt="Demo Session 2" width="450">
+*Winning team celebration with the complete system setup*
+
+</div>
+
+---
+
 ## 📊 Technical Specifications
 
 | Feature | Specification |
