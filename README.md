@@ -180,19 +180,19 @@ cd ../..
 <div align="center">
 
 **Main Dashboard View**
-![Dashboard - Main View](images/Web1.png)
+<img src="images/Web1.png" alt="Dashboard - Main View" width="600">
 *The primary quiz control interface showing team status and real-time controls*
 
 **Ready Phase Display**
-![Dashboard - Ready Phase](images/Web2.png)
+<img src="images/Web2.png" alt="Dashboard - Ready Phase" width="600">
 *READY phase with background music indicator and active buzzer monitoring*
 
 **Winner Announcement**
-![Dashboard - Winner Display](images/Web3.png)
+<img src="images/Web3.png" alt="Dashboard - Winner Display" width="600">
 *ANSWERED phase showing winning team with precise response timestamp*
 
 **Team Status Panel**
-![Dashboard - Team Monitoring](images/Web4.png)
+<img src="images/Web4.png" alt="Dashboard - Team Monitoring" width="600">
 *Real-time team connection status and battery health monitoring*
 
 </div>
@@ -204,35 +204,35 @@ cd ../..
 <div align="center">
 
 **PCB Fabrication**
-![PCB Cutting Process](images/PCBCutting.jpg)
+<img src="images/PCBCutting.jpg" alt="PCB Cutting Process" width="400">
 *Custom PCB being cut for the master unit circuitry*
 
 **Raw Components**
-![Unpainted Enclosure](images/Unpainted.jpg)
+<img src="images/Unpainted.jpg" alt="Unpainted Enclosure" width="400">
 *3D printed enclosure parts before painting and finishing*
 
 **Painted Enclosure**
-![Painted Version](images/paintedV.jpg)
+<img src="images/paintedV.jpg" alt="Painted Version" width="400">
 *Final painted enclosure with professional finish*
 
 **Internal Layout**
-![Opened Unit](images/Opened.jpg)
+<img src="images/Opened.jpg" alt="Opened Unit" width="400">
 *Internal component arrangement showing ESP32 and wiring*
 
 **Top View**
-![Top View](images/Top.jpg)
+<img src="images/Top.jpg" alt="Top View" width="400">
 *Top assembly view with button placement*
 
 **Button Assembly**
-![Buttons Detail](images/Buttons.jpg)
+<img src="images/Buttons.jpg" alt="Buttons Detail" width="400">
 *Close-up of push button switches and control interface*
 
 **Side Profile 1**
-![Side View 1](images/Side1.jpg)
+<img src="images/Side1.jpg" alt="Side View 1" width="400">
 *Side profile showing port access and mounting points*
 
 **Side Profile 2**
-![Side View 2](images/Side2.jpg)
+<img src="images/Side2.jpg" alt="Side View 2" width="400">
 *Alternative side angle with cable management*
 
 </div>
@@ -244,15 +244,15 @@ cd ../..
 <div align="center">
 
 **Charging Dock**
-![Charger](images/Charger.jpg)
+<img src="images/Charger.jpg" alt="Charger" width="400">
 *Custom charging station for team units*
 
 **Charging in Progress**
-![Charging](images/Charging.jpg)
+<img src="images/Charging.jpg" alt="Charging" width="400">
 *Team unit connected to charger with LED indicator*
 
 **Battery Monitor**
-![Battery Percentage Display](images/batteryPercentageAddn.jpg)
+<img src="images/batteryPercentageAddn.jpg" alt="Battery Percentage Display" width="400">
 *OLED display showing battery percentage and health status*
 
 </div>
@@ -264,11 +264,11 @@ cd ../..
 <div align="center">
 
 **Master Unit - Front**
-![Completed Master Unit](images/Completed1.jpg)
+<img src="images/Completed1.jpg" alt="Completed Master Unit" width="400">
 *Fully assembled master unit with OLED display and controls*
 
 **Master Unit - Angle View**
-![Completed Master Unit Side](images/Completed2.jpg)
+<img src="images/Completed2.jpg" alt="Completed Master Unit Side" width="400">
 *Professional finished product ready for deployment*
 
 </div>
@@ -280,11 +280,11 @@ cd ../..
 <div align="center">
 
 **Quiz Session in Progress**
-![Demo Session 1](images/Demo1.jpg)
+<img src="images/Demo1.jpg" alt="Demo Session 1" width="400">
 *Teams using wireless buzzers during live quiz competition*
 
 **Award Ceremony**
-![Demo Session 2](images/Demo2.jpg)
+<img src="images/Demo2.jpg" alt="Demo Session 2" width="400">
 *Winning team celebration with the complete system setup*
 
 </div>
