@@ -160,7 +160,7 @@ cd ../..
 
 | Feature | Specification |
 |---------|---------------|
-| **Response Time** | < 1 millisecond |
+| **Response Time** | < 10 millisecond |
 | **Timing Precision** | Microsecond (μs) timestamps |
 | **Communication Protocol** | ESP-NOW (IEEE 802.11) |
 | **Wireless Range** | 50+ meters (line of sight) |
@@ -206,6 +206,9 @@ cd ../..
 **PCB Fabrication**
 <img src="images/PCBCutting.jpg" alt="PCB Cutting Process" width="400">
 *Custom PCB being cut for the master unit circuitry*
+**Perfboard Cutting**
+![PCB Cutting Process](images/PCBCutting.jpg)
+*Custom Perfboard being cut for the master unit circuitry*
 
 **Raw Components**
 <img src="images/Unpainted.jpg" alt="Unpainted Enclosure" width="400">
@@ -234,6 +237,12 @@ cd ../..
 **Side Profile 2**
 <img src="images/Side2.jpg" alt="Side View 2" width="400">
 *Alternative side angle with cable management*
+![Side View 1](images/Side1.jpg)
+*Side profile showing Charging port access*
+
+**Side Profile 2**
+![Side View 2](images/Side2.jpg)
+*Alternative side angle with Buzzer*
 
 </div>
 
@@ -254,6 +263,8 @@ cd ../..
 **Battery Monitor**
 <img src="images/batteryPercentageAddn.jpg" alt="Battery Percentage Display" width="400">
 *OLED display showing battery percentage and health status*
+![Battery Percentage Display](images/batteryPercentageAddn.jpg)
+*WebPage showing battery percentage and health status*
 
 </div>
 
@@ -269,6 +280,12 @@ cd ../..
 
 **Master Unit - Angle View**
 <img src="images/Completed2.jpg" alt="Completed Master Unit Side" width="400">
+**All Units From Top Side Angle**
+![Completed Master Unit](images/Completed1.jpg)
+*Fully assembled master and Buzz units*
+
+**Buzzer System - Top view**
+![Completed Master Unit Side](images/Completed2.jpg)
 *Professional finished product ready for deployment*
 
 </div>
@@ -286,6 +303,12 @@ cd ../..
 **Award Ceremony**
 <img src="images/Demo2.jpg" alt="Demo Session 2" width="400">
 *Winning team celebration with the complete system setup*
+![Demo Session 1](images/Demo1.jpg)
+*Demo Showcase to mentor*
+
+**Listem Phase Showcase**
+![Demo Session 2](images/Demo2.jpg)
+*Demo Showcase*
 
 </div>
 
