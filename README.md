@@ -160,7 +160,7 @@ cd ../..
 
 | Feature | Specification |
 |---------|---------------|
-| **Response Time** | < 1 millisecond |
+| **Response Time** | < 10 millisecond |
 | **Timing Precision** | Microsecond (μs) timestamps |
 | **Communication Protocol** | ESP-NOW (IEEE 802.11) |
 | **Wireless Range** | 50+ meters (line of sight) |
@@ -203,9 +203,9 @@ cd ../..
 
 <div align="center">
 
-**PCB Fabrication**
+**Perfboard Cutting**
 ![PCB Cutting Process](images/PCBCutting.jpg)
-*Custom PCB being cut for the master unit circuitry*
+*Custom Perfboard being cut for the master unit circuitry*
 
 **Raw Components**
 ![Unpainted Enclosure](images/Unpainted.jpg)
@@ -229,11 +229,11 @@ cd ../..
 
 **Side Profile 1**
 ![Side View 1](images/Side1.jpg)
-*Side profile showing port access and mounting points*
+*Side profile showing Charging port access*
 
 **Side Profile 2**
 ![Side View 2](images/Side2.jpg)
-*Alternative side angle with cable management*
+*Alternative side angle with Buzzer*
 
 </div>
 
@@ -253,7 +253,7 @@ cd ../..
 
 **Battery Monitor**
 ![Battery Percentage Display](images/batteryPercentageAddn.jpg)
-*OLED display showing battery percentage and health status*
+*WebPage showing battery percentage and health status*
 
 </div>
 
@@ -263,11 +263,11 @@ cd ../..
 
 <div align="center">
 
-**Master Unit - Front**
+**All Units From Top Side Angle**
 ![Completed Master Unit](images/Completed1.jpg)
-*Fully assembled master unit with OLED display and controls*
+*Fully assembled master and Buzz units*
 
-**Master Unit - Angle View**
+**Buzzer System - Top view**
 ![Completed Master Unit Side](images/Completed2.jpg)
 *Professional finished product ready for deployment*
 
@@ -281,11 +281,11 @@ cd ../..
 
 **Quiz Session in Progress**
 ![Demo Session 1](images/Demo1.jpg)
-*Teams using wireless buzzers during live quiz competition*
+*Demo Showcase to mentor*
 
-**Award Ceremony**
+**Listem Phase Showcase**
 ![Demo Session 2](images/Demo2.jpg)
-*Winning team celebration with the complete system setup*
+*Demo Showcase*
 
 </div>
 
