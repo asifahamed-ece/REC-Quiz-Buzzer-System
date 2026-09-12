@@ -1,1 +1,77 @@
-Nothing needs to be added to .gitignore since only a README.md file was modified and no build artifacts, dependencies, or temporary files were detected in the changes.
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# Arduino
+*.ino.bin
+*.ino.elf
+*.ino.hex
+*.ino.map
+
+# ESP32
+sdkconfig
+sdkconfig.old
+
+# Build files
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Filesystem
+data/.DS_Store
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Credentials (DO NOT COMMIT)
+secrets.h
+config.local.h
+*.key
+*.pem
+credentials.json
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Node (if using build tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Test outputs
+test_results/
+coverage/
